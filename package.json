@@ -45,5 +45,15 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.7.2"
-  }
+  },
+  "Author":"Rohit Kumar",
+  "description":"Angular Flowbite SSR",
+  "license":"MIT",
+  "keywords":[
+    "angular",
+    "flowbite",
+    "ssr"
+  ],
+  "email":"romykundal@gmail.com"
+
 }
